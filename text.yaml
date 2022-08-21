@@ -1,15 +1,12 @@
-- type: text
-  content: Answers
+- text: Answers
 
-- type: text
-  content: I close my eyes, tell us why must we suffer  
-           Release your hands, for your will drags us under
-           My Legs grow tired, tell us where must we wander
-           How can we carry on, if redemption's beyond us
+- text: I close my eyes, tell us why must we suffer  
+        Release your hands, for your will drags us under
+        My Legs grow tired, tell us where must we wander
+        How can we carry on, if redemption's beyond us
 
-- type: text
-  content: Thy life is a riddle to bear rapture and sorrow
-           To listen to suffer to entrust unto tomorrow
-           In one fleeting moment from the land doth life flow
-           Yet in one fleeting moment for anew it doth grow
-           In the same fleeting moment thou must live die and know
+- text: Thy life is a riddle to bear rapture and sorrow
+        To listen to suffer to entrust unto tomorrow
+        In one fleeting moment from the land doth life flow
+        Yet in one fleeting moment for anew it doth grow
+        In the same fleeting moment thou must live die and know
