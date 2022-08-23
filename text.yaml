@@ -2,6 +2,10 @@ title: Text test
 children:
 - !text 
   text: Answers
+  style:
+    horizontalAlignment: center
+    margin:
+      bottom: 50
 
 - !text
   text: |
@@ -9,6 +13,9 @@ children:
     Release your hands, for your will drags us under
     My Legs grow tired, tell us where must we wander
     How can we carry on, if redemption's beyond us
+  style: &normal
+    margin:
+      bottom: 20  
 
 - !text
   text: |
@@ -17,3 +24,4 @@ children:
     In one fleeting moment from the land doth life flow
     Yet in one fleeting moment for anew it doth grow
     In the same fleeting moment thou must live die and know
+  style: *normal
