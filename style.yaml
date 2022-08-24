@@ -14,8 +14,8 @@ children:
     My Legs grow tired, tell us where must we wander
     How can we carry on, if redemption's beyond us
   style: &normal
+    horizontalAlignment: right
     margin:
-      horizontalAlignment: right
       bottom: 20  
 
 - !text
