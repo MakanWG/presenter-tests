@@ -26,3 +26,16 @@ children:
     Yet in one fleeting moment for anew it doth grow
     In the same fleeting moment thou must live die and know
   style: *normal
+
+- !image
+  source: "https://www.classcroissant.com/logo2022.png"
+  style:
+    height: 100
+    width: 50
+
+- !image
+  source: "https://www.classcroissant.com/logo2022.png"
+  style:
+    height: 50
+    width: 100
+  
